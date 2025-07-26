@@ -1,0 +1,11 @@
+pandas
+pandas-ta
+yfinance
+matplotlib
+backtesting.py
+numpy
+scipy
+seaborn
+tensorflow
+scikit-learn
+ccxt
